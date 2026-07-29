@@ -20,7 +20,7 @@
 O repositório do back-end está disponível em:
 
 ```
-https://github.com/DiaMont30/Trabalho-IA-Back.git
+https://github.com/DiaMont30/IA-Generativa.git
 ```
 
 ### Estrutura do Back-end
